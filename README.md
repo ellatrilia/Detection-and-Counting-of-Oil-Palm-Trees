@@ -2,7 +2,7 @@
 
 This tutorial explains how to train, detect, and count oil palm fruits using a pre-trained YOLOv8 model.
 
-<img src="https://drive.google.com/file/d/1sqgAL01v5WR4m9GJ7rI7xzqpzFbrXyKI/view?usp=sharing" width="300" height="auto">
+<img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/ykan/terrestrial/sawit-bekelanjutan/DJI_0155.jpg?crop=0%2C0%2C998%2C548&wid=4000&hei=2200&scl=0.2495" width="500" height="auto">
 
 ## Prepare Dataset
    * Source dataset: [Oil Palm Trees Annotation with Roboflow](https://universe.roboflow.com/ptc/ptc/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true).
@@ -107,9 +107,6 @@ plt.show()
 * The total number of detected palm fruits will be printed in the console.
   
 ![Image Description](https://drive.google.com/uc?export=view&id=1JUAgzf7OVsMG8NDlI5Uta6cRkbP5LZTk)
-
-## License
-This project is open-source and can be freely modified and distributed.
 
 
 
